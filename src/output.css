@@ -2677,6 +2677,13 @@ video {
   forced-color-adjust: none;
 }
 
+.SideBar {
+  background-image: url("./images/Слой\ 2\ 1.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
 ul li {
   margin: 10px 0px;
 }
